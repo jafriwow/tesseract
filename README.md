@@ -1,1 +1,1 @@
-See [Crossfilter](../crossfilter).
+See [Crossfilter](/square/crossfilter).
